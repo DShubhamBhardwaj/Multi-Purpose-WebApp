@@ -1,6 +1,6 @@
 # Multi-Purpose-WebApp
 
-its a Multi-Purpose-WebApp  where  we can see current wheath"er of any city over the globle,we can use temperature convertor ,we can see our current location,indian standard time etc . 
+Multi-Purpose-WebApp is an app where we can see the current weather of any city over the globe, we can use temperature convertor, we can see our current location, Indian standard time, etc. 
 
 
 
