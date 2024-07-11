@@ -17,7 +17,4 @@ This project is a multipurpose web application developed as part of the Cross Pl
 
 
 ## Screenshots
-
-![App Screenshot](https://github.com/DShubhamBhardwaj/Multi-Purpose-WebApp/blob/master/APP%20SCREENSHOTS/Screenshot%20(204).png)
-![App Screenshot](https://github.com/DShubhamBhardwaj/Multi-Purpose-WebApp/blob/master/APP%20SCREENSHOTS/Screenshot%20(205).pnghttps://github.com/DShubhamBhardwaj/Multi-Purpose-WebApp/blob/master/APP%20SCREENSHOTS/Screenshot%20(205).png)
 ![weather2](https://user-images.githubusercontent.com/50310860/86875305-cf940800-c0ff-11ea-85be-2a584b29be3c.gif)
