@@ -1,8 +1,5 @@
 # Multi-Purpose-WebApp
 
-
-# Multi-Purpose-WebApp
-
 This project is a multipurpose web application developed as part of the Cross Platform Mobile App course of 30 hours by ATS Learning Solutions. The application showcases various features such as Data Extraction From API, data visualization, and Cross Platform development. It demonstrates a comprehensive understanding of web development concepts covered in the course.
 
 
