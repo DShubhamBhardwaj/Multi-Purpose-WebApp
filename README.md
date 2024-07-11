@@ -9,7 +9,7 @@ This project is a multipurpose web application developed as part of the Cross Pl
 
 - Temperature Convertor
 - weather Details of the City
-- Geo Locatiopn Finder
+- Geo Location Finder
 
 
 
